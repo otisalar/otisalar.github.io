@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otisalar.github.io/sitemap.html.gz
+Sitemap: https://otisalar.github.io/app/sitemap.html.gz
+Sitemap: https://otisalar.github.io/assets/sitemap.html.gz
+Sitemap: https://otisalar.github.io/css/sitemap.html.gz
+Sitemap: https://otisalar.github.io/includes/sitemap.html.gz
+Sitemap: https://otisalar.github.io/item/sitemap.html.gz
+Sitemap: https://otisalar.github.io/src/sitemap.html.gz
